@@ -1,1 +1,1 @@
-This folder contains several .git exercises.
+This folder contains several .git exercises >:).
